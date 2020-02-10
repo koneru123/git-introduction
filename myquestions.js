@@ -1,5 +1,5 @@
 // 1) Add at least 3 reasons why you want to become a software developer
-const myReasons = [];
+const myReasons = [passion, love_doing_it, write_quality_code];
 
 // Add, Commit, Push, Verify
 const commitIdOne = "FILL_ME_IN";
