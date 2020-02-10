@@ -2,7 +2,8 @@
 const myReasons = [passion, love_doing_it, write_quality_code];
 
 // Add, Commit, Push, Verify
-const commitIdOne = "FILL_ME_IN";
+var passwordToParadise = "FILL_ME_IN";
+const commitIdOne = passwordToParadise;
 
 // 2) Modify myTrivia to contain the following with the given key names.
 /*
@@ -18,14 +19,14 @@ const commitIdOne = "FILL_ME_IN";
 const myTrivia = {};
 
 // Add, Commit, Push, Verify
-const commitIdTwo = "FILL_ME_IN";
+const commitIdTwo = passwordToParadise;
 
 // 3) Finish the function that allows you to add a reason to myReasons array
 
 const addToMyReasons = () => { myReasons.push('Career Goal') };
 
 // Add, Commit, Push, Verify
-const commitIdThree = "FILL_ME_IN";
+const commitIdThree = passwordToParadise;
 
 // 4) Finish the function that allows you to modify a given key value
 
@@ -33,4 +34,4 @@ const addToMyTrivia = (key, value) => { myReasons[key] = value };
 
 // Advanced Content
 
-var passwordToParadise = "FILL_ME_IN";
+//var passwordToParadise = "FILL_ME_IN";
